@@ -6,7 +6,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Delta Gaming";
+var l_serverName = "Succ";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -37,7 +37,7 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/bluefall.webm";
+var l_background = "backgrounds/videos/aurora.webm";
 
 /*(Image-background only)
 Place one or more images
@@ -66,7 +66,7 @@ var l_bgOverlay = true;
 
 /*Background darkening amount
 0 for none (0%), 100 for pitch black (100%)*/
-var l_bgDarkening = 50;
+var l_bgDarkening = 30;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
@@ -78,9 +78,9 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "5IOVkstxkdE", name: "Virtual Riot - Energy Drink"},
+	{youtube: "AHBnM1Jin9A", name: "Chime & Adam Tell - Whole (Rob Gasser Remix)"},
 	{youtube: "6y_NJg-xoeE", name: "Nitro Fun - New Game"},
-	{youtube: "mdaCDsN1FJ0", name: "Nitro Fun - Cheat Codes"}
+	{youtube: "IhP3J0j9JmY", name: "Imagine Dragons - Beleiver"}
 ];
 
 /*Random music order?*/
@@ -88,7 +88,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 5;
+var l_musicVolume = 2;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
@@ -111,8 +111,3 @@ var l_messagesDelay = 5000;
 in milliseconds*/
 var l_messagesFade = 1000;
 
-/*
---------------------------------------
---------LEAKED BY ANONYMOUS LEAKR --------------
-----------------------------------------
-*/
