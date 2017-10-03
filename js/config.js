@@ -80,7 +80,7 @@ Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{youtube: "AHBnM1Jin9A", name: "Chime & Adam Tell - Whole (Rob Gasser Remix)"},
 	{youtube: "6y_NJg-xoeE", name: "Nitro Fun - New Game"},
-	{youtube: "IhP3J0j9JmY", name: "Imagine Dragons - Beleiver"}
+	{youtube: "IhP3J0j9JmY", name: "Imagine Dragons - Believer"}
 ];
 
 /*Random music order?*/
