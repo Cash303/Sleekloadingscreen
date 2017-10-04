@@ -10,7 +10,7 @@ var l_serverName = "Succ";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
-var l_bgVideo = false;
+var l_bgVideo = true;
 
 /*Video background
 Avaiable options:
@@ -37,12 +37,12 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "";
+var l_background = [ "backgrounds/videos/bluefall.webm"
 
 /*(Image-background only)
 Place one or more images
 Multiple images will automatically shuffle between them*/
-var l_bgImages = [ "backgrounds/images/touhou01.jpg", "backgrounds/images/touhou02.jpg", "backgrounds/images/touhou02.jpg",
+var l_bgImages = [
 	"backgrounds/images/touhou01.jpg",
 	"backgrounds/images/touhou02.jpg",
 	"backgrounds/images/touhou02.jpg",
